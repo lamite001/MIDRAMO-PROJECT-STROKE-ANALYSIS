@@ -48,6 +48,13 @@ expressions used during the analysis.
 
 
 
+
+
+
+
+
+
+
 ![LINE CHART]!<img width="1216" height="477" alt="AGEPATIET" src="https://github.com/user-attachments/assets/05f5b6b9-a459-4ef2-998d-f6becefd28b5" />
 
 
@@ -59,7 +66,11 @@ expressions used during the analysis.
 
 
 
-![BAR CHART]![<img width="1205" height="475" alt="AGESTROKE" src="https://github.com/user-attachments/assets/9e61cc49-f46a-48dd-864b-3b7150808fc9" />])
+
+
+
+
+![BAR CHART]!<img width="1205" height="475" alt="AGESTROKE" src="https://github.com/user-attachments/assets/9e61cc49-f46a-48dd-864b-3b7150808fc9" />
 
 
 
@@ -68,4 +79,76 @@ expressions used during the analysis.
 
 
 
-![BAR CHART]![](<img width="1241" height="475" alt="AGEI" src="https://github.com/user-attachments/assets/6ad3361c-794a-4881-ab58-4bd9f967c3df" />)
+
+
+
+
+
+
+![BAR CHART]!<img width="1241" height="475" alt="AGEI" src="https://github.com/user-attachments/assets/6ad3361c-794a-4881-ab58-4bd9f967c3df" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![BAR CHART]!<img width="1104" height="459" alt="AGEGROUPBMI" src="https://github.com/user-attachments/assets/7e7f3d5a-2520-4e70-a022-7fc0ea5331be" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![BAR CHART]!<img width="1067" height="480" alt="GENDERBMI" src="https://github.com/user-attachments/assets/6ed97b0e-2af5-4f8a-9c24-5eb41d83d8b7" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![BAR CHART]!<img width="1104" height="459" alt="AGEGROUPBMI" src="https://github.com/user-attachments/assets/8a20161e-eb4f-41e1-b792-5dd057221bb3" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![LINE CHART]!<img width="1216" height="477" alt="AGEPATIET" src="https://github.com/user-attachments/assets/9a30c132-1e7f-4ac2-b8aa-6e6e9f96651c" />
