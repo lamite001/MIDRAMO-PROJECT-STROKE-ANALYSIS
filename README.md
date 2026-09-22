@@ -152,3 +152,30 @@ expressions used during the analysis.
 
 
 ![LINE CHART]!<img width="1216" height="477" alt="AGEPATIET" src="https://github.com/user-attachments/assets/9a30c132-1e7f-4ac2-b8aa-6e6e9f96651c" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recommendations
+1.	Treat age as the primary risk driver. 
+2.	Use heart disease as a strong secondary flag.
+3.	Don't take "ever married" at face value. .
+4.	Use BMI as a supporting, not primary, signal.
+5.	Correct for class imbalance before modeling. 
+6.	Expand the feature set if possible. 
+
+
+
