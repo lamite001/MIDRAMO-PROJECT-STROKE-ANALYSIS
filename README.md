@@ -58,11 +58,6 @@ expressions used during the analysis.
 
 
 
-![BAR CHART]![(<img width="1193" height="474" alt="GEDERAGE" src="https://github.com/user-attachments/assets/c2f35f38-ddfc-4241-9daf-384232e53f01" />])
-
-
-
-
 
 ![BAR CHART]![<img width="1205" height="475" alt="AGESTROKE" src="https://github.com/user-attachments/assets/9e61cc49-f46a-48dd-864b-3b7150808fc9" />])
 
